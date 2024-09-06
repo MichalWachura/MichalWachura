@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichalWachura
-- 👀 I’m interested in web dev | architecture | 3D modeling | gaming
-- 🌱 I’m currently learning Vanilla Javascript and Rihno3D
-- 🌞 I'm going to  learn React.js and SQL
+- 👀 I’m interested in web dev | architecture | 3D modeling | BIM
+- 🌱 I’m currently learning Python 
+- 🌞 I'm going to  learn SQL
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me michalwachura@gmail.com
 
